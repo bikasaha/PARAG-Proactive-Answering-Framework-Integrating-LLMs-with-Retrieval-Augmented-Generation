@@ -1,0 +1,101 @@
+Category,Question
+Access and Usage Policies,What are the guidelines for password construction?
+Information and Cybersecurity Policies,What is the antivirus policy?
+Incident and Crisis Management,How soon should UIDAI be notified for security incidents?
+Corrective Actions and Documentation,What are the relevant laws and regulations?
+Information and Cybersecurity Policies,How can restricted information be transmitted?
+Information and Cybersecurity Policies,What is the classification for Aadhar card information?
+Incident and Crisis Management,For which security incidents should board members be notified?
+Data and Asset Management,What is the policy for protecting system logs?
+Data and Asset Management,What are the guidelines for reclaiming assets?
+Incident and Crisis Management,What are the policies for vulnerability assessment and penetration testing for new applications?
+Access and Usage Policies,Can employees send emails to public domain email addresses?
+Access and Usage Policies,What is the policy around usage of the company whatsapp?
+Access and Usage Policies,Can employees use USB?
+Antivirus and Patch Management,How should antivirus servers be protected?
+Data and Asset Management,How soon should asset changes be reflected in inventory?
+Data and Asset Management,How many copies of backup need to be kept?
+Data and Asset Management,How long should backup copies be retained?
+Data and Asset Management,How often should data restoration be tested?
+Corrective Actions and Documentation,What is the policy for handling major changes?
+Change and Release Management,What are the steps in the change management process?
+Change and Release Management,What are the common types of changes covered by the change management policy?
+Information and Cybersecurity Policies,How are concompliance to security policies identified?
+Corrective Actions and Documentation,What are the common causes of noncompliance?
+Corrective Actions and Documentation,Who should review the corrective actions?
+Information and Cybersecurity Policies,What is the policy for digital signatures?
+Information and Cybersecurity Policies,How should encryption keys be distributed?
+Information and Cybersecurity Policies,How often should encryption keys be changed?
+Data and Asset Management,What are the different kinds of cyber security threats?
+Access and Usage Policies,What are the potential impact of Spam attacks?
+Incident and Crisis Management,What is the overall approach for cyber resiliency?
+Incident and Crisis Management,Which cyber security incidents need to be communicated to regulatory authorities?
+Incident and Crisis Management,How soon an incident needs to be reported to the regulatory authorities?
+Information and Cybersecurity Policies,What are the types of Information Security System Documents?
+Corrective Actions and Documentation,How long should security incident records be retained?
+Corrective Actions and Documentation,What are the guidelines for document versioning?
+Access and Usage Policies,How long should a user id be retained after an employee is terminated?
+Access and Usage Policies,How many login attempts are allowed before a user id is locked out?
+Access and Usage Policies,What is the policy for remote access?
+Information and Cybersecurity Policies,Summarize the information security vision and mission.
+Information and Cybersecurity Policies,What are the services offered by the organization?
+Corrective Actions and Documentation,What are the SWOT items for organization as a business?
+Corrective Actions and Documentation,What do the regulators expect from the organization?
+Information and Cybersecurity Policies,What are the resposbilities of the board of directors related to cybersecurity?
+Information and Cybersecurity Policies,Which group should govern the information and cybersecurity policy and who all should be in it?
+Information and Cybersecurity Policies,What is the role of the CTO in cybersecurity policy?
+Corrective Actions and Documentation,What is the role of the SOC?
+Information and Cybersecurity Policies,How will Organization-1 maintain cybersecurity awareness?
+Information and Cybersecurity Policies,What is covered in cybersecurity audit?
+Information and Cybersecurity Policies,What are the different classifications of information?
+Corrective Actions and Documentation,How should confidential information be handled?
+Information and Cybersecurity Policies,How will DLP be implemented?
+Data and Asset Management,What is the policy for open source software?
+Data and Asset Management,How long should logs be retained?
+Access and Usage Policies,Can employees use personal mobile phones to access Organization-1 network?
+Access and Usage Policies,What versions on Android and Windows are allowed to connect to Organization-1 network?
+Access and Usage Policies,What network monitoring protocol should be used?
+Access and Usage Policies,What kind of wifi security will be implemented?
+Antivirus and Patch Management,What are the different kinds of patches and how should they be handled?
+Information and Cybersecurity Policies,How will new patches be identified?
+Privacy and Compliance,What are the policies around controling vistor access to facilities?
+Privacy and Compliance,What are the usage guidelines for CCTV?
+Incident and Crisis Management,Who are the necessary members of the Incident Response Team in case of an incident and what is its goal?
+Incident and Crisis Management,What are the acts classified as incidents?
+Privacy and Compliance,When will Aadhar card information be used?
+Privacy and Compliance,How will the servers handling Aadahar information be secured?
+Privacy and Compliance,How will Aadhar number be stored?
+Privacy and Compliance,How will Aadhar infomation be authenticated?
+Data and Asset Management,How is risk defined?
+Data and Asset Management,What are the different threat levels?
+Data and Asset Management,How should risks be prioritized?
+Data and Asset Management,How is risk rating calculated?
+Software and Application Security,What are the necessary security guidelines pertaining to software development?
+Supplier and Third-Party Management,Who is classified as a supplier under the security policy?
+Supplier and Third-Party Management,What are the security guidelines when dealing with suppliers?
+Incident and Crisis Management,How frequently must penetration and vulnerability tests be performed?
+Incident and Crisis Management,Who is qualified to perform vulnerability and penetration tests?
+Incident and Crisis Management,What are the requirements for an acceptable vulnerability test?
+Privacy and Compliance,How will Aadhar card information be protected?
+Data and Asset Management,What is the policy for maintaining asset inventory?
+Software and Application Security,What are the guidelines for securing the bots?
+Privacy and Compliance,What forms of two factor authentication can be used?
+Software and Application Security,What are the guidelines for testing mobile app security?
+Information and Cybersecurity Policies,How often will the cybersecurity policy be reviewed and updated?
+Supplier and Third-Party Management,"How is third-party/vendor risk managed, especially for critical service providers?"
+Incident and Crisis Management,"Is there a disaster recovery plan, and how often is it tested?"
+Data and Asset Management,What measures are in place to recover lost or compromised data?
+Access and Usage Policies,Are multi-factor authentication (MFA) and role-based access control (RBAC) implemented?
+Access and Usage Policies,How are privileged accounts monitored and protected?
+Software and Application Security,Are secure coding practices and vulnerability testing mandatory for application development?
+Incident and Crisis Management,How is threat intelligence collected and utilized to stay ahead of emerging cyber threats? State the source in context documents.
+Data and Asset Management,Are systems monitored 24/7 for suspicious activities using tools like SIEM (Security Information and Event Management)?
+Data and Asset Management,"What tools or frameworks (e.g., NIST, ISO 27001) are followed for threat detection and mitigation? Only use relevant material from the context documents."
+Information and Cybersecurity Policies,How often are employees trained on cybersecurity best practices and phishing prevention?
+Access and Usage Policies,"Are customers educated about secure practices (e.g., avoiding phishing scams, strong password creation)?"
+Information and Cybersecurity Policies,What are the policies for employee background checks and termination procedures to prevent insider threats?
+Information and Cybersecurity Policies,How is data secured in cloud environments used by the organization?
+Access and Usage Policies,"What measures are in place for securing remote access, especially for employees working from home?"
+Information and Cybersecurity Policies,What steps are in place to protect against identity theft and online payment fraud?
+Software and Application Security,"How is the institution securing emerging technologies like blockchain, AI, and machine learning? Only use relevant material from context documents."
+Information and Cybersecurity Policies,What disciplinary measures are in place for employees who violate cybersecurity policies?
