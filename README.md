@@ -9,7 +9,7 @@ This repository contains 100 relevant questions designed for our PARAG experimen
 
 ## 📝 Submission Details
 
-This work has been submitted to the **[European Interdisciplinary Cybersecurity Conference (EICC) 2025](https://www.fvv.um.si/eicc2025/)** for review.
+This work has been accepted to the **[European Interdisciplinary Cybersecurity Conference (EICC) 2025](https://www.fvv.um.si/eicc2025/)** for publication. The framework code will be updated soon!
 
 ## 📜 License & Citation
 
