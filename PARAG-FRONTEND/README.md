@@ -1,42 +1,62 @@
-# PARAG-FRONTEND
-This directory includes the source code for the front-end component of the PARAG application.
-## Clone the Repository
-To clone this project, run:
-```sh
+
+# 🌐 PARAG Frontend
+
+## 🧾 Overview
+
+This directory contains the complete **frontend codebase** of the **PARAG** application — a Retrieval-Augmented Generation (RAG) powered interface that allows users to query and interact with organizational security policy documents seamlessly.
+
+Built with modern JavaScript frameworks, the frontend provides an interactive, responsive UI for real-time queries, powered by large language models and vector search.
+
+---
+
+## 🚀 Getting Started
+
+### 1. 🧬 Clone the Repository
+
+```bash
 git clone <repository_url>
 ```
 
-## Installation
-Navigate to the project root directory and install dependencies:
-```sh
+### 2. 📦 Install Dependencies
+
+Navigate to the frontend directory and install required packages:
+
+```bash
 cd PARAG-FRONTEND
 npm install
 ```
 
-## Running the Project
-Start the development server with:
-```sh
+### 3. ▶️ Run the Development Server
+
+```bash
 npm run dev
 ```
 
-## Project Structure
+This will start the app locally (usually at `http://localhost:5173` if using Vite).
+
+---
+
+## 🗂️ Project Structure
+
 ```
 PARAG-FRONTEND/
-├── src/           # Main source code directory
-├── public/        # Static assets
-├── components/    # UI components
-├── pages/         # Application pages
-├── package.json   # Project metadata and dependencies
-└── README.md      # Project documentation
+├── src/             # Source code
+│   ├── components/  # Reusable UI components
+│   ├── pages/       # Page-level components (if applicable)
+│   ├── App.jsx      # Root component
+│   └── main.jsx     # Entry point
+├── public/          # Static assets (favicon, etc.)
+├── index.html       # HTML template
+├── tailwind.config.js  # Tailwind CSS configuration
+├── package.json     # Project metadata and scripts
+└── README.md        # Documentation
 ```
 
-## Requirements
-- Node.js (Latest LTS version recommended)
-- npm or yarn
+---
 
-## Contributing
-Feel free to open issues or submit pull requests.
+## 🛠️ Requirements
 
-## License
-This project is licensed under the MIT License.
+- **Node.js** (LTS version recommended)
+- **npm** or **yarn**
 
+---

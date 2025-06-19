@@ -1,0 +1,46 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*.so
+
+### Virtual Environment ###
+venv/
+.env
+
+### Logs ###
+logs/
+*.log
+
+### IDE and Editor Files ###
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+### Dependency Lock Files ###
+Pipfile.lock
+poetry.lock
+
+### Coverage ###
+.coverage
+htmlcov/
+
+### Migrations ###
+**/migrations/*.pyc
+**/migrations/*.pyo
+
+### FastAPI Specific ###
+instance/
+*.db
+*.sqlite3
+
+### Docker ###
+.dockerignore
+docker-compose.override.yml
+
+### Misc ###
+.DS_Store
+Thumbs.db
