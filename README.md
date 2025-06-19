@@ -13,20 +13,20 @@ This repository includes:
 
 ```
 PARAG/
-|── Dataset/
-|   ├── Comprehensive..csv # Dataset used to evaluate the framework 
-├── PARAG-FRONTEND/        # Frontend application
-│   ├── public/            # Static assets
-│   ├── README.md          # ReadMe file for frontend
-│   ├── src/               # Source code
-│   ├── index.html         # Root HTML
-│   ├── tailwind.config.js # Tailwind CSS configuration
-│   └── package.json       # Frontend metadata and dependencies
-├── PARAG-BACKTEND/        # Backend applciation       
-│   ├── backend/           # FastAPI backend for PDF ingestion and RAG query
-│   ├── app/               # Core backend app
-│   └── README.md          # ReadMe file for backend
-└── README.md              # Root documentation (this file)
+├── Dataset/
+│   ├── Comprehensive..csv   # Dataset used to evaluate the framework 
+├── PARAG-FRONTEND/          # Frontend application
+│   ├── public/              # Static assets
+│   ├── README.md            # ReadMe file for frontend
+│   ├── src/                 # Source code
+│   ├── index.html           # Root HTML
+│   ├── tailwind.config.js   # Tailwind CSS configuration
+│   └── package.json         # Frontend metadata and dependencies
+├── PARAG-BACKTEND/          # Backend applciation       
+│   ├── backend/             # FastAPI backend for PDF ingestion and RAG query
+│   │   ├── app/             # Core backend app
+│   └── README.md            # ReadMe file for backend
+└── README.md                # Root documentation (this file)
 ```
 
 ---
