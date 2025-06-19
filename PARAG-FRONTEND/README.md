@@ -1,5 +1,5 @@
 # PARAG-FRONTEND
-
+This directory includes the source code for the front-end component of the PARAG application.
 ## Clone the Repository
 To clone this project, run:
 ```sh
