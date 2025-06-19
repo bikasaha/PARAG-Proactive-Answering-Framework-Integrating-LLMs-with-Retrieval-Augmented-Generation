@@ -22,7 +22,8 @@ PARAG/
 │   ├── index.html         # Root HTML
 │   ├── tailwind.config.js # Tailwind CSS configuration
 │   └── package.json       # Frontend metadata and dependencies
-├── backend/               # FastAPI backend for PDF ingestion and RAG query
+├── PARAG-BACKTEND/        # Backend applciation       
+│   ├── backend/           # FastAPI backend for PDF ingestion and RAG query
 │   ├── app/               # Core backend app
 │   └── README.md          # ReadMe file for backend
 └── README.md              # Root documentation (this file)
@@ -38,63 +39,14 @@ PARAG/
 
 ---
 
-## 🛠️ Backend Setup
+## 🛠️ Setup Instructions
 
-1. Navigate to the backend folder:
+To set up and run the application, please follow the detailed instructions provided in the respective component READMEs:
 
-```bash
-cd backend
-```
+- 📄 [Backend Setup](./PARAG-BACKTEND/README.md)
+- 🌐 [Frontend Setup](./PARAG-FRONTEND/README.md)
 
-2. Create a virtual environment and activate it:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Create a `.env` file in the backend root and add your OpenAI key:
-
-```
-OPENAI_API_KEY=your-api-key-here
-```
-
-5. Run the backend:
-
-```bash
-uvicorn app.main:app --reload
-```
-
----
-
-## 🌐 Frontend Setup
-
-1. Navigate to the frontend directory:
-
-```bash
-cd PARAG-FRONTEND
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Start the development server:
-
-```bash
-npm run dev
-```
-
-This will typically serve the app at: `http://localhost:5173`
-
+These guides cover installation, configuration, running instructions, and dependencies.
 ---
 
 ## 📡 Connecting Frontend to Backend
