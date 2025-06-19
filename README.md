@@ -94,3 +94,20 @@ If you use or build upon this work in your research or application, please **cit
 > *PARAG: Proactive Answering Framework Integrating LLMs with Retrieval-Augmented Generation.*  
 > In: Praça I., Bernardi S., Inácio P.R. (eds) **Cybersecurity. EICC 2025.** Communications in Computer and Information Science, vol 2500. Springer, Cham.  
 > [https://doi.org/10.1007/978-3-031-94855-8_2](https://doi.org/10.1007/978-3-031-94855-8_2)
+
+---
+
+## 📚 BibTeX Citation
+
+If you would like to cite this work in your research, please use the following BibTeX entry:
+
+```bibtex
+@inproceedings{saha2025parag,
+  title={PARAG: Proactive Answering Framework Integrating LLMs with Retrieval-Augmented Generation},
+  author={Saha, Bikash and Rani, Nanda and Chakraborty, Joheen and Singh, Divyanshu and Chakraborty, Soumyo V and Shukla, Sandeep Kumar},
+  booktitle={European Interdisciplinary Cybersecurity Conference},
+  pages={20--37},
+  year={2025},
+  organization={Springer}
+}
+```
